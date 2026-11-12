@@ -1,0 +1,5 @@
+python: 2.7
+pylith: 2.1.0Linuxx86_64
+numpy
+matplotlib
+h5py
